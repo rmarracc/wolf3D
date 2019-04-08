@@ -54,14 +54,14 @@ You can find the map files in the map folder, but you can also generate yours us
 
 cpoirier :
 
-(Optimised) Raycasting render engine
-Ground reflection effect
-Skybox
-Texture mapping
+- (Optimised) Raycasting render engine
+- Ground reflection effect
+- Skybox
+- Texture mapping
 
 me (rmarracc) :
 
-Parsing
-Generator
-Commands and collisions
-Minimap
+- Parsing
+- Generator
+- Commands and collisions
+- Minimap
