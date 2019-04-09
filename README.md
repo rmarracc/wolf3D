@@ -40,8 +40,13 @@ You can find the map files in the map folder, but you can also generate yours us
 ## Controls
 
 - Move with WASD
-- rotate the player with right and left arrows
+- Rotate the player with right and left arrows
 - Enable/Disable the minimap with M
+- Dash with Shift
+
+## Pictures
+
+https://postimg.cc/gallery/cybhe5ao/
 
 ## Known bugs
 
